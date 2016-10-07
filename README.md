@@ -9,6 +9,8 @@ We will be using Python tool (IPython, scikit-learn and matplotlib) for developm
 ### Learn and Practice git
 
 * Complete the exercise https://github.com/AGV-IIT-KGP/git-sandbox, instructions and resources are given in the readme.
+* Squashing Commits: https://ariejan.net/2011/07/05/git-squash-your-latests-commits-into-one/
+  
 
 ### Learn Python
 
